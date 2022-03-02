@@ -11,7 +11,7 @@ This is an example of how to make a application which shortens the url entered b
 Step 1: Clone the repo
 
 ```bash
-git clone https://github.com/trulymittal/short-url-nodejs-mongodb
+git clone https://github.com/jatin-dhingra/Shortify
 ```
 
 Step 2: cd into the cloned repo and run:
@@ -20,29 +20,23 @@ Step 2: cd into the cloned repo and run:
 npm install
 ```
 
-Step 3: Install & Run MongoDB (Linux Ubuntu)
 
-See <https://docs.mongodb.com/manual/installation/> for more infos
-
-Step 4 (optional): If Nodemon not installed
+Step 3: install all the required modules
 
 ```bash
-npm install -g nodemon
+npm init -y
 ```
 
 Step 5: Start the application by
 
 ```bash
-npm start
+nodemon app.js
 ```
 
 ## Author
 
-- [**Truly Mittal**](https://trulymittal.com)
+- [**Jatin Dhingra**]
 
-## Contribute
-
-You can fork this repo and send me a PR.
 
 ## License
 
