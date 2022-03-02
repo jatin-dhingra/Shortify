@@ -27,7 +27,7 @@ Step 3: install all the required modules
 npm init -y
 ```
 
-Step 5: Start the application by
+Step 4: Start the application by
 
 ```bash
 nodemon app.js
