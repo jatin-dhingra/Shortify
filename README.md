@@ -2,7 +2,7 @@
 
 This is an example of how to make a application which shortens the url entered by the client.
 
-**MongoDB** is used for storing Users in Database.
+**MongoDB** is used for checking if the entered url is in Database. If yes then simply it will print it and there's no need to generate a new short url otherwise it will generate a new short url and render it on main page
 
 ---
 
