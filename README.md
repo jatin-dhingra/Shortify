@@ -2,6 +2,8 @@
 
 This is an example of how to make a application which shortens the url entered by the client.
 
+**ShortId** A npm module use to generate the short id data for a non dependable (STRING) and here converting the entered url as form such that the rendering of short id enables to give the URL of a particular link.
+
 **MongoDB** is used for checking if the entered url is in Database. If yes then simply it will print it and there's no need to generate a new short url otherwise it will generate a new short url and render it on main page
 
 ---
